@@ -1,5 +1,7 @@
 # mini_projects
 
+Some smaller projects that I have put together
+
 - dft - 2020 - trying to code a discrete fourier transform from scratch
 - fpl_Draft - 2020 - A fantasy football data scaper and team selector based on weekly statistics
 - ft - 2020 - simple fourier transform script
